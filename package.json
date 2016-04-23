@@ -12,11 +12,11 @@
   "author": "Fujisawa Shin",
   "license": "BSD",
   "dependencies": {
-    "colors": "~0.6.1",
-    "del": "^2.2.0",
-    "imagemagick": "~0.1.3",
-    "optimist": "~0.5.2",
-    "underscore": "~1.6.0"
+    "colors": "latest",
+    "del": "latest",
+    "imagemagick": "latest",
+    "optimist": "latest",
+    "underscore": "latest"
   },
   "devDependencies": {
     "chai": "~1.6.1",
