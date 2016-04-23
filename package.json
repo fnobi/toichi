@@ -12,16 +12,17 @@
   "author": "Fujisawa Shin",
   "license": "BSD",
   "dependencies": {
-    "colors": "latest",
-    "del": "latest",
-    "imagemagick": "latest",
-    "optimist": "latest",
-    "underscore": "latest"
+    "colors": "1.1.*",
+    "del": "2.2.*",
+    "imagemagick": "0.1.*",
+    "optimist": "0.6.*",
+    "underscore": "1.8.*",
+    "async": "0.1.*"
   },
   "devDependencies": {
-    "chai": "~1.6.1",
-    "mocha": "~1.11.0",
-    "grunt": "~0.4.1",
+    "chai": "1.6.*",
+    "mocha": "1.11.*",
+    "grunt": "0.4.*",
     "grunt-release": "0.13.*"
   }
 }
