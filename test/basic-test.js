@@ -1,4 +1,6 @@
-var expect = require('chai').expect;
+'use strict';
+
+const expect = require('chai').expect;
 
 describe('node.js', function () {
     it('calculate addition', function () {
